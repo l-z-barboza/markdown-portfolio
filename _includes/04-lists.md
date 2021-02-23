@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# ANOTHA LISTUH
+- I LOVE POTATOES
+  - I H8 POTATOES
+    - JK I LUV :sweet_potato:
