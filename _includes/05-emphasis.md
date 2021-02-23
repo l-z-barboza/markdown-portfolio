@@ -1,3 +1,5 @@
 - I HAVE **NO** SKILLZ
 - I AM _DUMB_
-- I **_H8_** MAHSELFUH
+- I **_H8_** MAHSELFU
+- [ ] LMAO
+- [x] L**O**L
